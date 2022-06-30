@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeeklyAssignment4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txtJokeNo">Joke No. </string>
+    <string name="txtId">ID</string>
+    <string name="txtJoke">JOKE</string>
+    <string name="randomJoke">RANDOM JOKE</string>
+    <string name="listOfRandomJokes">LIST OF JOKES</string>
+    <string name="customJoke">CUSTOM JOKE</string>
+</resources>

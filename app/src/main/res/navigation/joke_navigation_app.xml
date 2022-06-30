@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/joke_navigation_app"
+    app:startDestination="@id/FragmentJokes">
+
+    <fragment
+        android:id="@+id/FragmentJokes"
+        android:name="com.daniel.weeklyassignment4.ui.JokesFragment"
+        android:label="Jokes Fragment"
+        tools:layout="@layout/fragment_jokes">
+
+    </fragment>
+
+</navigation>
